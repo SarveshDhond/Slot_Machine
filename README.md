@@ -1,5 +1,9 @@
 # Slot Machine - Python 
-NOTE: " I DO NOT PROMOTE / ADVOCVATE GAMBLING. THIS IS JUST A FUN PROJECT TO SHOWCASE MY PYTHON SKILLS " 
+
+### Precautionary Statement
+" I DO NOT PROMOTE / ADVOCATE GAMBLING. THIS IS JUST A FUN PROJECT TO SHOWCASE MY PYTHON SKILLS "
+
+#### Project Summary
 I have created a slot machine in this repository using Python on vscode.
 
 #### Project aim
