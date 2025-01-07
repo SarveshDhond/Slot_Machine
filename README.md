@@ -9,11 +9,11 @@ I have created a slot machine in this repository using Python on vscode. this sl
 ## PROJECT AIM
 This project aims to show my Python programming skills, understanding of complex data structures, and problem-solving. 
 
-## Project Tools
+## PROJECT PREREQUISITE
 1. [Python3](https://www.python.org/downloads/)
 2. [VS Code](https://code.visualstudio.com/download)
 
-## Steps taken
+## STEPS TAKEN
 1. I started this project by understanding how a slot machine functions and what features it should have. A slot machine should accept deposits, ask after each turn if the player wants to continue playing, and ask how much he/she wants to bet on each line, how much they won and the balance they have after each win/loss.
 2. The only module I imported for this project was "random"
 3. In the next step, I decided the maximum number of lines they could bet on, what amount minimum and maximum they could bet on each line and made a dictionary of symbols depicting the amount and the number of times they can occur in each spin.
@@ -32,7 +32,7 @@ To keep this project simple I have not taken into account losses for now.
    7. Spin(balance): This function takes into account the balance that was returned from the balance function. Here, the machine checks if the player has enough balance to place his bet. this function also prints the amount the player is betting, which line the player is betting on and what balance is left. This function also returns what amount the player won. 
    8. Main: This function asks the player if he wants to continue to play or quit. 
 
-## Limitations
+## LIMITATIONS
 - This slot machine takes into account 3 rows and 3 columns. Usually slot machine has more than 3 rows and columns.
 - This slot machine doesn't take losses into account and the worst result a player can have is getting no profit.
 - This slot machine also uses alphabets as symbols.
